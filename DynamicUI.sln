@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicUI", "DynamicUI\DynamicUI.csproj", "{665AE928-7BA0-427B-92B2-3B4FCE016F04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{665AE928-7BA0-427B-92B2-3B4FCE016F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665AE928-7BA0-427B-92B2-3B4FCE016F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665AE928-7BA0-427B-92B2-3B4FCE016F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665AE928-7BA0-427B-92B2-3B4FCE016F04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DynamicUI\DynamicUI.csproj
+	EndGlobalSection
+EndGlobal
